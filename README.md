@@ -4,18 +4,13 @@ This project demonstrates a 4-wheel robot performing **SLAM (mapping)** and **Au
 
 ---
 
-## 🗺️ SLAM Mapping Demo
-This video shows the robot performing **real-time mapping** of the environment using **SLAM Toolbox**.  
-The robot is manually teleoperated while SLAM builds an occupancy grid map.
+# 🗺️ SLAM Mapping Demo
+<video controls autoplay muted width="700">
+  <source src="https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/mapping_updated.mp4" type="video/mp4">
+</video>
 
-https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/mapping_updated.mp4
-
----
-
-## 🧭 Autonomous Navigation Demo
-This video shows the robot using **Nav2** to autonomously plan a path and navigate to a selected goal location inside the world.
-
-https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/Nav%20updated.mp4
-
----
+# 🧭 Autonomous Navigation Demo
+<video controls autoplay muted width="700">
+  <source src="https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/Nav%20updated.mp4" type="video/mp4">
+</video>
 
