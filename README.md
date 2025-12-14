@@ -13,28 +13,27 @@ Below are two demonstration videos showing the robot performing SLAM and Navigat
 
 ## 🗺️ SLAM Mapping Demo
 
-This video shows the robot performing **real-time SLAM mapping** of the environment using **SLAM Toolbox**.  
-The robot is manually teleoperated while SLAM builds the occupancy grid map.
+This video shows the robot performing **real-time SLAM mapping** using SLAM Toolbox.  
+The robot is manually teleoperated while the map is being generated.
 
-<br>
+<details>
+  <summary>▶️ Click to play SLAM Mapping Video</summary>
 
-<video controls autoplay muted loop width="700">
-  <source src="https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/mapping_updated.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/videos/mapping_updated.mp4
+
+</details>
 
 ---
 
 ## 🧭 Autonomous Navigation Demo
 
-This video shows the robot using **Nav2** to autonomously plan a path and navigate to a selected goal location in the simulated environment.
+This video shows the robot using **Nav2** to autonomously plan a path and move to a selected goal in the environment.
 
-<br>
+<details>
+  <summary>▶️ Click to play Navigation Video</summary>
 
-<video controls autoplay muted loop width="700">
-  <source src="https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/Nav%20updated.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Shourya1515/4-wheel-robot-SLAM-and-Autonomous-Navigation/raw/main/videos/nav_updated.mp4
+
+</details>
 
 ---
-
